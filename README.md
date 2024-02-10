@@ -1,3 +1,6 @@
+**_Acknowledgements_**
+Project Idea from: https://www.freecodecamp.org/news/react-projects-for-beginners-easy-ideas-with-code/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

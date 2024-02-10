@@ -1,6 +1,6 @@
 **_Acknowledgements_**
 
-Project Idea from: https://www.freecodecamp.org/news/react-projects-for-beginners-easy-ideas-with-code/
+Project Idea from: [https://www.freecodecamp.org/news/react-projects-for-beginners-easy-ideas-with-code/](https://www.freecodecamp.org/news/react-projects-for-beginners-easy-ideas-with-code/)
 
 # Getting Started with Create React App
 
